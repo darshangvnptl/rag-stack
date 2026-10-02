@@ -9,6 +9,9 @@ permissions:
   contents: read
   issues: read
   copilot-requests: write
+engine: 
+  id: copilot
+  model: gpt-6-luna
 tools:
   github:
     mode: gh-proxy
