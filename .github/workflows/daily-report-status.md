@@ -11,7 +11,7 @@ permissions:
   copilot-requests: write
 engine: 
   id: copilot
-  model: claude-3.5-sonnet
+  model: copilot
 tools:
   github:
     mode: gh-proxy
