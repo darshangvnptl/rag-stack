@@ -11,7 +11,7 @@ permissions:
   copilot-requests: write
 engine: 
   id: copilot
-  model: gemini-3.8-flash
+  model: gpt-4o
 tools:
   github:
     mode: gh-proxy
